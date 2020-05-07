@@ -1,4 +1,4 @@
-# FeatureExtractionComp
+# Feature Extraction Performance Comparisons between PCA and feature selection
 
 Introduction
 
